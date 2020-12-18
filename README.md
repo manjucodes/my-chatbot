@@ -8,4 +8,7 @@ this personel bot tells me random jokes everytime i ask and also it gives me mea
 this project was done to enhance my python skills
 
 Frontend:This part was done by readymade tempalates of chat ui from others(code)(html)(css)
+
+
+
 backend:flask,python
