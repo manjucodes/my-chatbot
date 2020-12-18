@@ -12,3 +12,5 @@ Frontend:This part was done by readymade tempalates of chat ui from others(code)
 
 
 backend:flask,python
+
+tools:VS-code
